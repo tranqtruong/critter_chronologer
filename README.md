@@ -1,7 +1,3 @@
-Tuyệt vời! Dưới đây là bản **README.md** đã chỉnh sửa đúng với công nghệ bạn dùng: **Java 17**, **JPA (via EntityManager)**, và **H2 in-memory database**:
-
----
-
 # 🐾 Critter Chronologer
 
 A scheduling and management backend system for a pet service business, allowing users to register pets, assign employees, and schedule appointments. Developed as a backend practice project using Spring Boot and pure JPA with EntityManager.
